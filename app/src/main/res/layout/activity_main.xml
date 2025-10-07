@@ -84,7 +84,6 @@
                 app:endIconMode="password_toggle"
                 app:endIconTint="@color/pink_400"
                 app:hintTextColor="@color/pink_400"
-                app:startIconDrawable="@drawable/ic_lock"
                 app:startIconTint="@color/pink_400">
 
                 <com.google.android.material.textfield.TextInputEditText
